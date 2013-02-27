@@ -225,6 +225,6 @@ dist/
 nbdist/
 nbactions.xml
 nb-configuration.xml
-/src/nbproject/private/
-/src/assets/files/
-/src/tests/
+/source/nbproject/private/
+/source//files/
+/source/tests/
